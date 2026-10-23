@@ -10,6 +10,7 @@ Every file is exactly as exported from [Copernicus Browser](https://browser.data
 |---|---|---|---|---|---|---|
 | 2026-10-04 | L1C | TIFF | 23 | Yes | About 10 m pixels, clear | [`sentinel-2/2026-10-04/L1C_tiff/`](sentinel-2/2026-10-04/L1C_tiff/) |
 | 2026-10-16 | L1C | JPG | 23 | Preview only | JPG, not georeferenced | [`sentinel-2/2026-10-16/L1C_jpg/`](sentinel-2/2026-10-16/L1C_jpg/) |
+| 2026-10-16 | L1C | TIFF | 23 | No | Haze or thin cloud over the fire area | [`sentinel-2/2026-10-16/L1C_tiff/`](sentinel-2/2026-10-16/L1C_tiff/) |
 | 2026-10-16 | L2A | TIFF | 23 | No | Haze or thin cloud over the fire area | [`sentinel-2/2026-10-16/L2A_tiff/`](sentinel-2/2026-10-16/L2A_tiff/) |
 | 2026-10-19 | L2A | TIFF | 23 | Yes | About 10 m pixels, clear | [`sentinel-2/2026-10-19/L2A_tiff/`](sentinel-2/2026-10-19/L2A_tiff/) |
 | 2026-10-21 | L1C | TIFF | 17 | No | Fire area outside the swath | [`sentinel-2/2026-10-21/L1C_tiff/`](sentinel-2/2026-10-21/L1C_tiff/) |
