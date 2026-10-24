@@ -16,6 +16,7 @@ Every file is exactly as exported from [Copernicus Browser](https://browser.data
 | 2026-10-19 | L2A | TIFF | 23 | Yes | About 10 m pixels, clear | [`sentinel-2/2026-10-19/L2A_tiff/`](sentinel-2/2026-10-19/L2A_tiff/) |
 | 2026-10-21 | L1C | TIFF | 17 | No | Fire area outside the swath | [`sentinel-2/2026-10-21/L1C_tiff/`](sentinel-2/2026-10-21/L1C_tiff/) |
 | 2026-10-21 | L2A | TIFF | 17 | No | Fire area outside the swath | [`sentinel-2/2026-10-21/L2A_tiff/`](sentinel-2/2026-10-21/L2A_tiff/) |
+| 2026-10-23 | L2A | TIFF | 23 | No | Fire area outside the swath | [`sentinel-2/2026-10-23/L2A_tiff/`](sentinel-2/2026-10-23/L2A_tiff/) |
 
 **Usable** means the export covers all three reference points, at least 95% of the fire area (52.74-52.80°N, 110.85-110.96°W) has data, and the blue band shows no haze. Unusable exports are kept because a documented gap is part of the record.
 
